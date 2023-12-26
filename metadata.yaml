@@ -1,0 +1,30 @@
+_repo: The-influence-of-Greek-ideas-and-usages-upon-the-Christian-church_72255
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hatch, Edwin
+    gutenberg_agent_id: '56619'
+    url: http://www.gutenberg.org/2009/agents/56619
+  editor:
+    agent_name: Fairbairn, A. M.
+    gutenberg_agent_id: '56620'
+    url: http://www.gutenberg.org/2009/agents/56620
+description: ''
+gutenberg_issued: '2023-11-29'
+identifiers:
+  gutenberg: '72255'
+language: en
+pgterms:marc904: https://archive.org/details/influenceofgreek00hatciala/page/70/mode/2up
+pgterms:marc905: 20201027142512hatch
+pgterms:marc906: '1914'
+pgterms:marc907: GB
+production_note: Wouter Franssen and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bWilliams and Norgate, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The influence of Greek ideas and usages upon the Christian church
+url: http://www.gutenberg.org/ebooks/72255
