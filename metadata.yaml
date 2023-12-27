@@ -1,5 +1,8 @@
 _repo: The-influence-of-Greek-ideas-and-usages-upon-the-Christian-church_72255
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72255-h/images/cover.jpg
 creator:
   author:
     agent_name: Hatch, Edwin
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '56620'
     url: http://www.gutenberg.org/2009/agents/56620
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72255#The-influence-of-Greek-ideas-and-usages-upon-the-Christian-church
 gutenberg_issued: '2023-11-29'
 identifiers:
   gutenberg: '72255'
